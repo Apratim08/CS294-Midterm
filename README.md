@@ -1,4 +1,4 @@
-This is the Midterm Assignment for CS294. <br>
+This is the Midterm Assignment for CS294: Experiential Design for Machine Learning <br>
 
 The homework consists of: <br>
 <li> Exercises 1, 2, 3 of Chapter 6 (generalization) [14pts] </li>
